@@ -1,0 +1,78 @@
+body {
+    background-image:url("https://s.yimg.com/aah/gallerydirectart/tim-burton-s-corpse-bride-limited-edition-fine-art-giclee-print-on-paper-till-death-do-us-part-23.jpg");
+    margin: 0 auto;
+    text-align: center;
+    }
+
+h1 {
+     color:#D7BDE2;
+    font-family: 'Spicy Rice', cursive;
+    font-size:50px;
+    }
+
+img {
+    border: 2px solid white;
+    border-radius: 100px;
+    color:#B7E2FE;
+}
+
+
+.img2{
+    width: 400px;
+    height:350px;
+    display: flex;
+    justify-content: center;
+     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.img3{
+     width: 400px;
+    height:350px;
+    display: flex;
+    justify-content: center;
+     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    }
+    
+.bestCandy{
+    height:50px;
+    width:150px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:15px;
+    
+    }
+
+#b {
+    height:50px;
+    width:100px;
+    font-family: 'Spicy Rice', cursive;
+    font-size:15px;
+    display: flex;
+    justify-content: center;
+     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    }
+    
+#c{
+    height:50px;
+    width:100px;
+    font-family: 'Indie Flower', cursive;
+    font-size:15px;
+    display: flex;
+    justify-content: center;
+     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    }
+
+#footer {
+    color:#D998F3;
+    }
+	
